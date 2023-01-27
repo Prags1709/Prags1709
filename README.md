@@ -19,13 +19,12 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />
+<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg" />
 
 <br />
 
@@ -44,4 +43,4 @@
 
 ### ⚡ This line make me always craving
 
-<h1 style="color:red;">while(!(succeed = try() ) );</h1>
+<h1>while(!(succeed = try() ) );</h1>
