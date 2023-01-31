@@ -6,7 +6,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Prags1709" alt="prags" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning Data Structures, Algorithms and MERN stack.<br><br>👯 I’m looking to collaborate on Substantial projects<br><br>💬 Talk to me about JavaScript, Backend frameworks, Database and Algorithms<br><br>📫 How to reach me prags1709@gmail.com<br>
+🌱 I’m currently learning Data Structures, Algorithms and MERN stack.<br><br>👯 I’m looking to collaborate on Substantial projects<br><br>💬 Talk to me about JavaScript, Backend frameworks, Database and Algorithms<br><br>💻 Know more about me <a href="https://prags1709.github.io/" target="_blank"  >Portfolio</a><br><br>📫 How to reach me prags1709@gmail.com<br>
 
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
