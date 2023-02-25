@@ -1,7 +1,7 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 
 <h1 align="center">Hi There , I'm Pragatheeswaran S <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> But you can call me Prags</h1>
-<p align="center">Thank You for taking the time to view my GitHub Profile 😄.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.</p>
+<p align="center">Thank You for taking the time to view my GitHub Profile 😄.I am proficient in front-end and back-end web development. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.</p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Prags1709" alt="prags" /> </p>
 
