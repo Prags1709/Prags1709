@@ -22,6 +22,7 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"/>
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -30,6 +31,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg" />
+<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="vercel"/>
+
 
 <br />
 
