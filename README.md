@@ -24,19 +24,17 @@
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"/>
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://manikprakash-portfolio.netlify.app/skills/express.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" />
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />
-<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg" />
+<img align="left" alt="node.js" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg" />
+<img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="express" width="30px" style="padding-right:10px;" src="https://manikprakash-portfolio.netlify.app/skills/express.svg" />
+<img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" />
+<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />
 <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="vercel"/>
 
 
 <br />
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2 style="color: red"> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Prags1709&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prags1709&theme=city_light&hide_border=false)<br/>
